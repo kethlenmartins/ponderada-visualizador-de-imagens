@@ -1,6 +1,7 @@
 # Visualizador de imagens
 
 Ponderada da semana 4 realizada pela aluna Kethlen Martins da Silva.
+Com este visualizador de imagens, qualquer usuário consegue processar, editar e redimensionar imagens .png, .jpg e .jpeg.
 
 ## Como executar:
 
@@ -11,3 +12,6 @@ Ponderada da semana 4 realizada pela aluna Kethlen Martins da Silva.
 5. Execute o streamlit com ```streamlit run visualizador_imagens.p```
 
 ## Vídeo explicativo
+
+https://github.com/user-attachments/assets/a17a1fec-d754-4cb8-a86c-5f1c43a73d91
+
